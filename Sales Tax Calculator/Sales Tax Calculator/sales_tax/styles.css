@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 0 auto;
+    padding: 0px 0px;
+    width: 550px;
+    border: 3px solid rgb(93, 137, 69);
+    border-radius: 5px;  
+   
+}
+h1 {
+	color: rgb(4, 107, 50);
+	margin-top: 0;
+	margin-bottom: .5em;
+    text-align: center;
+}
+
+hr
+{
+    border-color: rgb(4, 107, 50);
+    border: 1.3px solid green;
+    border-radius: 1px;
+    margin-top: 20px;
+}
+main {
+    padding: 1em 2em;
+    background-color: rgb(224, 247, 213);
+
+}
+label {
+	float: left;
+    width: 6em;
+    text-align: left;
+}
+input {
+    margin-left: 1em;
+    margin-bottom: .5em;
+   /* border-radius: 5px; */
+    text-align: left;
+    
+}
+span {
+	color: blue;
+    border-radius: 5px;
+}
+
+#calculate{
+border: 2px solid #000;
+}
+
+#clear{
+    border: 2px solid #000;
+}
+
+input[type="text"] {
+    width: 100px;
+    border-radius: 5px; 
+}
+.div
+{
+    padding-left: 20px;
+}
+
+.button-container {
+    padding-top: 15px;
+    margin-left: 8.5em; 
+    margin-bottom: .90em; 
+}
+
+
+input[type="text"] {
+    width: 100px;
+    border-radius: 5px; 
+}
+
+
+#calculate,
+#clear {
+    border-radius: 5px; 
+    padding: 5px 30px 5px 30px;
+}
